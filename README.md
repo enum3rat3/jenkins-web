@@ -1,2 +1,2 @@
 # jenkins-web
-Jenkins Practice 
+Jenkins Pipeline Practice 

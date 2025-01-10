@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/sh
 
 echo "Webhook testing"
 echo 1 * 2

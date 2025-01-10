@@ -1,7 +1,6 @@
 #!/bin/sh
 
 echo "Webhook"
-echo `1 * 2`
-echo `9 / 3`
-echo `3 + 4`
-echo `4 - 1`
+a = 4
+b = 5
+echo $a * $b
